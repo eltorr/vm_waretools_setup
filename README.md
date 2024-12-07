@@ -7,7 +7,7 @@ Simple script to automate VMware Tools installation, with support for both Debia
 Run the following command to download and execute the script directly:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/vmware-tools-setup/main/vmware-setup.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/eltorr/vm_waretools_setup/main/vmware-setup.sh | sudo bash
 ```
 
 ## Alternative Installation
@@ -15,7 +15,7 @@ curl -sSL https://raw.githubusercontent.com/yourusername/vmware-tools-setup/main
 Download and run the script manually:
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/vmware-tools-setup/main/vmware-setup.sh
+wget https://raw.githubusercontent.com/eltorr/vm_waretools_setup/main/vmware-setup.sh
 chmod +x vmware-setup.sh
 sudo ./vmware-setup.sh
 ```
@@ -67,5 +67,6 @@ If you encounter issues:
 ## License
 
 MIT License - feel free to modify and reuse!
+
 
 
